@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./chandan_github_profile_BORDER_FIXED.gif" width="100%">
+</p>
 
 <!--
 **aryaastra14/aryaastra14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
